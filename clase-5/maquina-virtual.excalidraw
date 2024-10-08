@@ -1,0 +1,212 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "rL60SiuttLymeVC3geztZ",
+      "type": "rectangle",
+      "x": 264.6614685058594,
+      "y": 292.31770502196434,
+      "width": 214.66146850585938,
+      "height": 185.65106201171878,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 576430770,
+      "version": 175,
+      "versionNonce": 920579950,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "s78vAmV7aWe1ASLLBC36M"
+        },
+        {
+          "id": "xXnkW7d16EF03vGDFISvX",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1727998324601,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "s78vAmV7aWe1ASLLBC36M",
+      "type": "text",
+      "x": 316.9022216796875,
+      "y": 347.6432360278237,
+      "width": 110.17996215820312,
+      "height": 75,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1761727474,
+      "version": 125,
+      "versionNonce": 553032430,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1727998264569,
+      "link": null,
+      "locked": false,
+      "text": "8 Nucleos\n32GB RAM\n500SSD",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 68,
+      "containerId": "rL60SiuttLymeVC3geztZ",
+      "originalText": "8 Nucleos\n32GB RAM\n500SSD",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "a5MPGGn0G-kegakr6NV4j",
+      "type": "rectangle",
+      "x": 613.6458740234375,
+      "y": 232.60417352782372,
+      "width": 255.6640625,
+      "height": 160.32550048828128,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1387612658,
+      "version": 298,
+      "versionNonce": 149951854,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "YduSyy-Ww3tauYpcGKGwn"
+        },
+        {
+          "id": "xXnkW7d16EF03vGDFISvX",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1727998359705,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "YduSyy-Ww3tauYpcGKGwn",
+      "type": "text",
+      "x": 684.6479339599609,
+      "y": 275.26692377196434,
+      "width": 113.65994262695312,
+      "height": 75,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 2123890286,
+      "version": 209,
+      "versionNonce": 694630318,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1727998359705,
+      "link": null,
+      "locked": false,
+      "text": "4 Nucleos\n8GB Ram\n120GB SSD",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 68,
+      "containerId": "a5MPGGn0G-kegakr6NV4j",
+      "originalText": "4 Nucleos\n8GB Ram\n120GB SSD",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "xXnkW7d16EF03vGDFISvX",
+      "type": "arrow",
+      "x": 482.4999694824219,
+      "y": 359.4749983468294,
+      "width": 130.14590454101562,
+      "height": 69.20721229787256,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1629971186,
+      "version": 46,
+      "versionNonce": 696493102,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1727998359706,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          130.14590454101562,
+          -69.20721229787256
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "rL60SiuttLymeVC3geztZ",
+        "focus": 0.22259852485737514,
+        "gap": 3.177032470703125
+      },
+      "endBinding": {
+        "elementId": "a5MPGGn0G-kegakr6NV4j",
+        "focus": 0.6143375841002446,
+        "gap": 1
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
