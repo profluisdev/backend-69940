@@ -13,13 +13,19 @@ export class UserServices {
   }
   async getById(id) {
     const user = await this.userDao.getBy(id);
-    if(!user) throw customError.notFoundError(`User id ${id} not found`);
+    if (!user) throw customError.notFoundError(`User id ${id} not found`);
     return user;
   }
   async create(data) {
     const user = await this.userDao.save(data);
     return user;
   }
+
+  async createMany(data) {
+    const users = await this.userDao.saveMany(data);
+    return users;
+  }
+
   async update(id, data) {
     const user = await this.userDao.update(id, data);
     return user;
